@@ -1,0 +1,13 @@
+# Blender MTL File: 'untitled.blend'
+# Material Count: 1
+newmtl Material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.230240 0.236548 0.236548
+Ks 0.433962 0.433962 0.433962
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\PEZ STEPHANE\\Desktop\\brick.jpg
+
+
